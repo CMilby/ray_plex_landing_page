@@ -1,0 +1,18 @@
+{
+	"menu_title": "Ray's Bitchin' Plex Landing Page",
+
+	"home_card_1_title": "Plex",
+	"home_card_1_text": "Go watch all your favorite shows and movies!",
+	"home_card_1_btn_text": "Go to Plex",
+	"home_card_1_btn_link": "https://www.google.com",
+
+	"home_card_2_title": "Request A Movie",
+	"home_card_2_text": "Can't find a movie or show you wanna watch? Request it!",
+	"home_card_2_btn_text": "Go Request a Movie",
+	"home_card_2_btn_link": "https://www.google.com",
+
+	"home_card_3_title": "Optimize Your Plex",
+	"home_card_3_text": "Rey the quality of this movie is ass, help me!",
+	"home_card_3_btn_text": "How Optimize",
+	"home_card_3_btn_link": "optimize_plex"
+}
